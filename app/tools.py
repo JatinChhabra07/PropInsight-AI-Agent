@@ -1,4 +1,3 @@
-import os
 import pandas as pd
 
 def calculate_rent_rolls(path: str):
